@@ -1,0 +1,9 @@
+@import "./variables.scss";
+
+// your global style;
+
+body {
+    background-color: $bgcolor;
+    font-size: fixpx(31.9);
+}
+
